@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_cB7Wk_FqEe2tubmFjeEG-g" id="_EDh5MPFpEe2tubmFjeEG-g" label="SqlServerConn" purpose="Connect to SQL Server to do ETL Job" version="0.1" statusCode="" item="_cB7WlfFqEe2tubmFjeEG-g" displayName="SqlServerConn">
+    <author href="../../talend.project#_ScId0PFmEe2Dnf53ldfxPg"/>
+    <additionalProperties xmi:id="_cB7WlvFqEe2tubmFjeEG-g" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_cB7Wl_FqEe2tubmFjeEG-g" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_cCAPEPFqEe2tubmFjeEG-g" key="created_date" value="2023-05-13T15:44:56.825+0700"/>
+    <additionalProperties xmi:id="_cCAPEfFqEe2tubmFjeEG-g" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_cCAPEvFqEe2tubmFjeEG-g" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_cCAPE_FqEe2tubmFjeEG-g" key="modified_date" value="2023-05-13T15:44:56.825+0700"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_cB7WlPFqEe2tubmFjeEG-g" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_cB7WlfFqEe2tubmFjeEG-g" property="_cB7Wk_FqEe2tubmFjeEG-g" state="_cB7WlPFqEe2tubmFjeEG-g" typeName="Microsoft SQL Server">
+    <connection href="SqlServerConn_0.1.item#_cB7WkPFqEe2tubmFjeEG-g"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

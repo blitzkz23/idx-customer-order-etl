@@ -1,0 +1,11 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://example.com/status_order" xmlns="http://example.com/status_order">
+  <xs:element name="statusOrderTable">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="status_id" type="xs:int"/>
+        <xs:element name="status_order" type="xs:string"/>
+        <xs:element name="status_order_desc" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

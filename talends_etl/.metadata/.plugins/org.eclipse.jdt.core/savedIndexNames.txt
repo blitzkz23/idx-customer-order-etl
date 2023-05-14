@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+D:\DEV\Data Engineering\VIX IDX Partner\idx-customer-order-etl\talends_etl\.metadata\.plugins\org.eclipse.jdt.core
+2513940584.index
+1230445429.index
+2558992355.index
+931210709.index
+3322149851.index
+3465864848.index
+1255119122.index
+2909193166.index
+1143488546.index
+180869197.index
+1904287336.index
+1984709738.index
+990066027.index
+3489426540.index
+1242787514.index
+1029217099.index

@@ -5,9 +5,9 @@ use DWH_Project;
 CREATE TABLE dbo.DimCustomer
 (
     CustomerID int PRIMARY KEY NOT NULL,
-    FirstName varchar(50) NOT NULL,
-    LastName varchar(50) NOT NULL,
+    CustomerName varchar(100) NOT NULL,
     Age int NOT NULL,
+    Gender varchar(50) NOT NULL,
     City varchar(50) NOT NULL,
     NoHP varchar(50) NOT NULL
 )
@@ -38,10 +38,10 @@ CREATE TABLE dbo.FactSalesOrder
     OrderID int PRIMARY KEY NOT NULL,
     CustomerID int NOT NULL,
     ProductID int NOT NULL,
-    StatusID int NOT NULL,
     Quantity int NOT NULL,
     Amount int NOT NULL,
-    OrderData date NOT NULL,
+    StatusID int NOT NULL,
+    OrderDate date NOT NULL,
     FOREIGN KEY (CustomerID) REFERENCES dbo.DimCustomer(CustomerID),
     FOREIGN KEY (ProductID) REFERENCES dbo.DimProduct(ProductID),
     FOREIGN KEY (StatusID) REFERENCES dbo.DimStatusOrder(StatusID)

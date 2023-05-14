@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_td3hoPFtEe2pLNT91pEQwQ" name="DWHConn" id="_kGY04PFtEe2pLNT91pEQwQ" label="DWHConn" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://localhost:1433/DWH_Project;" dbVersionString="JTDS" Port="1433" Username="sa" Password="enc:system.encryption.key.v1:3bjxOafKqlHCSGHJx4WdOTTWzJPpYgLFCKRFWPNxJLR2t5F4kJmG9g==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="DWH_Project" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="dbo">
+  <taggedValue xmi:id="_td3hofFtEe2pLNT91pEQwQ" tag="Is Conn Need Reload" value="true"/>
+  <parameters xmi:id="_td3hovFtEe2pLNT91pEQwQ" key="CONN_PARA_KEY_USERNAME" value="sa"/>
+</TalendMetadata:DatabaseConnection>
